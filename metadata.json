@@ -1,0 +1,6 @@
+{
+  "name": "Creatore di Card Snippet",
+  "description": "Uno strumento semplice ed elegante per creare, copiare e gestire snippet di codice sotto forma di card personalizzabili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
